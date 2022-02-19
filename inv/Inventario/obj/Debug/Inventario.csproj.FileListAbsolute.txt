@@ -1,0 +1,45 @@
+C:\Users\giova\source\repos\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\giova\source\repos\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\giova\source\repos\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\giova\source\repos\Inventario\Inventario\obj\Debug\Inventario.csprojAssemblyReference.cache
+C:\Users\giova\source\repos\Inventario\Inventario\obj\Debug\Inventario.Areas.resources
+C:\Users\giova\source\repos\Inventario\Inventario\obj\Debug\Inventario.Inventario.resources
+C:\Users\giova\source\repos\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\giova\source\repos\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\giova\source\repos\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\giova\source\repos\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\Inventario.exe
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\Inventario.pdb
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\Google.Protobuf.dll
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\MySql.Data.dll
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\System.Buffers.dll
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\System.Memory.dll
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\ZstdNet.dll
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\Google.Protobuf.pdb
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\Google.Protobuf.xml
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\MySql.Data.xml
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\System.Buffers.xml
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\System.Memory.xml
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\luis slay\Desktop\Inventario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luis slay\Desktop\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\luis slay\Desktop\Inventario\obj\Debug\Inventario.FrmAreas.resources
+C:\Users\luis slay\Desktop\Inventario\obj\Debug\Inventario.FrmInventario.resources
+C:\Users\luis slay\Desktop\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\luis slay\Desktop\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\luis slay\Desktop\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\luis slay\Desktop\Inventario\obj\Debug\Inventario.csproj.CopyComplete
+C:\Users\luis slay\Desktop\Inventario\obj\Debug\Inventario.exe
+C:\Users\luis slay\Desktop\Inventario\obj\Debug\Inventario.pdb
